@@ -950,4 +950,306 @@ Una lista colectiva de APIs gratuitas para su uso en desarrollo de software y we
 | [MusicBrainz](https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2) | Música | `Ninguna` | Sí | Sí |
 | [Musixmatch](https://developer.musixmatch.com/) | Letras de música | `apiKey` | Sí | Sí |
 | [Openwhyd](https://openwhyd.github.io/openwhyd/API) | Obtén datos de canciones de sitios web de música | `Ninguna` | Sí | No |
-| [Q
+| [Qobuz](https://github.com/qobuz/api-documentation) | Música | `apiKey` | Sí | Sí |
+| [Radiopt](https://radiopt.net/developer/) | Música y metadatos de estaciones de radio | `apiKey` | Sí | Sí |
+| [Songkick](https://www.songkick.com/developer/) | Eventos musicales | `apiKey` | Sí | Sí |
+| [Songlink](https://www.song.link) | Enlaces a servicios de streaming de música | `apiKey` | Sí | Sí |
+| [Songsterr](https://www.songsterr.com/a/wa/api/) | Tablaturas y acordes de guitarra | `Ninguna` | Sí | Sí |
+| [SoundCloud](https://developers.soundcloud.com/docs/api/guide) | Descubre música y audio | `OAuth` | Sí | Sí |
+| [Spotify](https://developer.spotify.com/documentation/web-api/) | API Web de Spotify | `OAuth` | Sí | Sí |
+| [TasteDive](https://tastedive.com/read/api) | Recomendaciones de artistas y bandas similares | `apiKey` | Sí | Sí |
+| [TheAudioDB](https://www.theaudiodb.com/api_guide.php) | Música | `apiKey` | Sí | Sí |
+| [Vagalume](https://api.vagalume.com.br/docs/) | Letras de canciones y traducciones colaborativas | `apiKey` | Sí | Sí |
+
+### Noticias
+
+| API | Descripción | Autenticación | HTTPS | CORS |
+| --- | --- | --- | --- | --- |
+| [Associated Press](https://developer.ap.org/) | Noticias y metadatos de Associated Press | `apiKey` | Sí | Sí |
+| [Currents](https://currentsapi.services/) | Noticias de última hora publicadas en varias fuentes | `apiKey` | Sí | Sí |
+| [Feedbin](https://github.com/feedbin/feedbin-api) | Lector de RSS | `OAuth` | Sí | Sí |
+| [GNews](https://gnews.io/) | Buscar noticias de varias fuentes | `apiKey` | Sí | Sí |
+| [Graph.org](https://graph.org/) | Noticias de código abierto | `Ninguna` | Sí | Sí |
+| [Inshorts](https://github.com/cyberboysumanjay/Inshorts-News-API) | Noticias en 60 palabras de Inshorts | `Ninguna` | Sí | Sí |
+| [News](https://newsapi.org/) | Titulares publicados en una variedad de fuentes de noticias y blogs | `apiKey` | Sí | Sí |
+| [NewsData](https://newsdata.io/docs) | Noticias de varias fuentes y blogs | `apiKey` | Sí | Sí |
+| [Newscatcher](https://newscatcherapi.com/) | Buscar noticias publicadas por más de 60,000 fuentes | `apiKey` | Sí | Sí |
+| [NewsAPI](https://newsapi.org/) | Noticias en vivo y titulares de más de 70,000 fuentes | `apiKey` | Sí | Sí |
+| [NPR One](https://dev.npr.org/api/) | Experiencia de escucha de noticias personalizada de NPR | `OAuth` | Sí | Sí |
+| [Spaceflight News](https://spaceflightnewsapi.net) | Noticias relacionadas con vuelos espaciales 🚀 | `Ninguna` | Sí | Sí |
+| [The Guardian](http://open-platform.theguardian.com/) | Accede a todo el contenido que crea The Guardian | `apiKey` | Sí | Sí |
+| [The News](https://www.thenewsapi.com/) | Titulares agregados, noticias principales y noticias en vivo JSON API | `apiKey` | Sí | Sí |
+| [The Old Reader](https://github.com/theoldreader/api) | Lector de RSS | `apiKey` | Sí | Sí |
+
+### Código Abierto
+
+| API | Descripción | Autenticación | HTTPS | CORS |
+| --- | --- | --- | --- | --- |
+| [Countly](https://api.count.ly/reference) | Análisis web de Countly | `Ninguna` | No | No |
+| [Creative Commons](https://api.creativecommons.engineering/) | Imágenes con licencia CC | `OAuth` | Sí | Sí |
+| [Datamuse](https://www.datamuse.com/api/) | Buscador de palabras | `Ninguna` | Sí | Sí |
+| [Drupal.org](https://www.drupal.org/drupalorg/docs/api) | Drupal.org | `Ninguna` | Sí | No |
+| [Evil Insult Generator](https://evilinsult.com/api/) | Generar insultos malvados | `Ninguna` | Sí | Sí |
+
+### Pagos
+
+| API | Descripción | Autenticación | HTTPS | CORS |
+| --- | --- | --- | --- | --- |
+| [Amazon Pay](https://pay.amazon.com/us/developer/documentation) | Amazon Pay | `apiKey` | Sí | Sí |
+| [Authorize.net](https://developer.authorize.net/) | Procesamiento de pagos | `apiKey` | Sí | Sí |
+| [Braintree](https://developer.paypal.com/braintree/docs/reference/overview) | Pasarela Braintree | `apiKey` | Sí | Sí |
+| [Coinbase](https://developers.coinbase.com) | Bitcoin, Bitcoin Cash, Litecoin y Ethereum | `apiKey` | Sí | Sí |
+| [Gocardless](https://developer.gocardless.com/) | Pagos recurrentes | `OAuth` | Sí | Sí |
+| [Dwolla](https://docs.dwolla.com/) | Pagos recurrentes | `OAuth` | Sí | Sí |
+| [Mundi](https://mundipagg.com/) | Pagos recurrentes | `apiKey` | Sí | Sí |
+| [Nexmo](https://developer.nexmo.com/) | SMS | `apiKey` | Sí | Sí |
+| [Paddle](https://developer.paddle.com/api-reference/intro) | Pagos recurrentes | `apiKey` | Sí | Sí |
+| [Paymill](https://www.paymill.com/en-gb/documentation-3/reference/api-reference/) | Procesamiento de pagos | `apiKey` | Sí | Sí |
+| [PayPal](https://developer.paypal.com/docs/api/overview/) | Procesamiento de pagos | `OAuth` | Sí | Sí |
+| [Razorpay](https://razorpay.com/docs/api/) | Procesamiento de pagos | `apiKey` | Sí | Sí |
+| [Square](https://developer.squareup.com/reference/square) | Procesamiento de pagos | `OAuth` | Sí | Sí |
+| [Stripe](https://stripe.com/docs/api/) | Procesamiento de pagos | `apiKey` | Sí | Sí |
+| [Vend](https://www.vendhq.com/developer) | Punto de venta | `OAuth` | Sí | Sí |
+| [NowPayments](https://documenter.getpostman.com/view/7907941/S1a32n38?version=latest) | Pagos con criptomonedas | `apiKey` | Sí | Sí |
+
+### Personalidad
+
+| API | Descripción | Autenticación | HTTPS | CORS |
+| --- | --- | --- | --- | --- |
+| [Advice Slip](http://api.adviceslip.com/) | Generar consejos aleatorios | `Ninguna` | Sí | Sí |
+| [Biriyani As A Service](https://biriyani.astik.co/) | Imágenes de biriyani | `Ninguna` | Sí | No |
+| [Dev.to](https://developers.forem.com/api) | Contenido generado por la comunidad | `Ninguna` | Sí | Sí |
+| [FavQs.com](https://favqs.com/api) | FavQs te permite coleccionar, descubrir y compartir tus citas favoritas | `apiKey` | Sí | Sí |
+| [FOAAS](http://www.foaas.com/) | Fuck Off As A Service | `Ninguna` | No | No |
+| [Forismatic](http://forismatic.com/en/api/) | Citas aleatorias | `Ninguna` | No | Sí |
+| [icanhazdadjoke](https://icanhazdadjoke.com/api) | La mayor selección de chistes de papá en internet | `Ninguna` | Sí | Sí |
+| [Inspiration](https://inspiration.goprogram.ai/docs/) | Citas motivacionales e inspiradoras | `Ninguna` | Sí | Sí |
+| [kanye.rest](https://kanye.rest) | API REST para citas aleatorias de Kanye West | `Ninguna` | Sí | Sí |
+| [Medium](https://github.com/Medium/medium-api-docs) | Comunidad de lectores y escritores que ofrece perspectivas únicas sobre ideas | `OAuth` | Sí | Sí |
+| [NaMoMemes](https://github.com/theIYD/NaMoMemes) | Memes sobre Narendra Modi | `Ninguna` | Sí | Sí |
+| [Quote Garden](https://quote-garden.onrender.com/) | API REST para más de 5000 citas famosas | `Ninguna` | Sí | Sí |
+| [Quotes on Design](https://quotesondesign.com/api/) | Citas inspiradoras | `Ninguna` | Sí | Sí |
+| [Stoicism Quote](https://github.com/tlcheah2/stoic-quote-lambda-public-api) | Citas sobre estoicismo | `Ninguna` | Sí | Sí |
+| [They Said So](https://theysaidso.com/api/) | Citas | `Ninguna` | Sí | Sí |
+| [Traitify](https://app.traitify.com/developer) | Evaluar, recopilar y analizar personalidad | `apiKey` | Sí | Sí |
+| [Udemy(instructor)](https://www.udemy.com/instructor-api/) | API para instructores en Udemy | `apiKey` | Sí | Sí |
+| [Vatansoft](https://vatansoft.net/apis) | Vatansoft | `apiKey` | Sí | Sí |
+| [ZenQuotes](https://zenquotes.io/) | Gran colección de citas Zen para motivación | `Ninguna` | Sí | Sí |
+
+### Teléfono
+
+| API | Descripción | Autenticación | HTTPS | CORS |
+| --- | --- | --- | --- | --- |
+| [Abstract Phone Validation](https://www.abstractapi.com/phone-validation-api) | Validar números de teléfono globalmente | `apiKey` | Sí | Sí |
+| [apilayer numverify](https://numverify.com) | Validación de números de teléfono | `apiKey` | Sí | Sí |
+| [Cloudmersive Validate](https://cloudmersive.com/phone-number-validation-improved-api) | Validar números de teléfono internacionales | `apiKey` | Sí | Sí |
+| [NumValidate](https://numvalidate.com) | Validación de números de teléfono de código abierto | `Ninguna` | Sí | Sí |
+| [Veriphone](https://veriphone.io) | Validación de números de teléfono y búsqueda de operador | `apiKey` | Sí | Sí |
+
+### Fotografía
+
+| API | Descripción | Autenticación | HTTPS | CORS |
+| --- | --- | --- | --- | --- |
+| [500px](https://github.com/500px/api-documentation) | Comunidad de fotografía | `OAuth` | Sí | Sí |
+| [Flickr](https://www.flickr.com/services/api/) | Fotografía | `OAuth` | Sí | Sí |
+| [Getty Images](https://developers.gettyimages.com) | Fotografía | `OAuth` | Sí | Sí |
+| [Gfycat](https://developers.gfycat.com/api/) | Almacenamiento y catalogación de gifs | `OAuth` | Sí | Sí |
+| [Giphy](https://developers.giphy.com/docs/) | Obtén todos tus gifs | `apiKey` | Sí | Sí |
+| [Gyazo](https://gyazo.com/api/docs) | Subir imágenes | `apiKey` | Sí | Sí |
+| [Imgur](https://apidocs.imgur.com/) | Imágenes | `OAuth` | Sí | Sí |
+| [Lorem Picsum](https://picsum.photos/) | Imágenes de Unsplash | `Ninguna` | Sí | Sí |
+| [ObjectCut](https://objectcut.com/) | Eliminación de fondo de imágenes | `apiKey` | Sí | Sí |
+| [Pexels](https://www.pexels.com/api/) | Fotos y videos de stock gratuitos | `apiKey` | Sí | Sí |
+| [Pixabay](https://pixabay.com/sk/service/about/api/) | Fotografía | `apiKey` | Sí | Sí |
+| [PlaceKitten](https://placekitten.com/) | Marcador de posición de imágenes de gatitos | `Ninguna` | Sí | Sí |
+| [ScreenShotLayer](https://screenshotlayer.com) | URL a Imagen | `apiKey` | Sí | Sí |
+| [Unsplash](https://unsplash.com/developers) | Fotografía | `OAuth` | Sí | Sí |
+| [Wallhaven](https://wallhaven.cc/help/api) | Fondos de pantalla | `apiKey` | Sí | Sí |
+
+### Ciencia y Matemáticas
+
+| API | Descripción | Autenticación | HTTPS | CORS |
+| --- | --- | --- | --- | --- |
+| [arcsecond.io](https://api.arcsecond.io/) | Múltiples fuentes de datos astronómicos | `Ninguna` | Sí | Sí |
+| [CORE](https://core.ac.uk/services#api) | Accede a los documentos de investigación de acceso abierto del mundo | `apiKey` | Sí | Sí |
+| [GBIF](https://www.gbif.org/developer/summary) | Facilidad de Información sobre Biodiversidad Global | `Ninguna` | Sí | Sí |
+| [iDigBio](https://github.com/iDigBio/idigbio-search-api/wiki) | Accede a millones de especímenes de museo de organizaciones de todo el mundo | `Ninguna` | Sí | Sí |
+| [inspirehep.net](https://github.com/inspirehep/rest-api-doc) | Sistema de información de física de alta energía | `Ninguna` | Sí | Sí |
+| [isEven (humor)](https://isevenapi.xyz/) | Verificar si un número es par | `Ninguna` | Sí | Sí |
+| [ISRO](https://isro.vercel.app) | Información de naves espaciales de ISRO | `Ninguna` | Sí | Sí |
+| [Launch Library 2](https://thespacedevs.com/llapi) | Lanzamientos y eventos de vuelos espaciales | `Ninguna` | Sí | Sí |
+| [Materials Platform for Data Science](https://mpds.io) | Datos experimentales curados para ciencia de materiales | `apiKey` | Sí | No |
+| [Minor Planet Center](http://www.asterank.com/mpc) | Información de Asterank.com | `Ninguna` | No | No |
+| [NASA](https://api.nasa.gov) | Datos de la NASA, incluyendo imágenes | `Ninguna` | Sí | Sí |
+| [Newton](https://newton.vercel.app) | Calculadora matemática simbólica y aritmética | `Ninguna` | Sí | Sí |
+| [Noctua](https://api.noctua.studio/) | Astronomía | `Ninguna` | Sí | Sí |
+| [Numbers](https://math.tools/api/numbers/) | Número del día, número aleatorio, datos numéricos y cualquier otra cosa que quieras hacer con números | `apiKey` | Sí | Sí |
+| [Numbers](https://api.math.tools/) | Número del día, número aleatorio, datos numéricos y cualquier otra cosa que quieras hacer con números | `Ninguna` | Sí | Sí |
+| [Open Notify](http://open-notify.org/Open-Notify-API/) | Astronautas de la ISS, ubicación actual, etc | `Ninguna` | No | No |
+| [Open Science Framework](https://developer.osf.io) | Repositorios y proyectos para investigación científica | `Ninguna` | Sí | Sí |
+| [SpaceX](https://github.com/r-spacex/SpaceX-API) | Datos de empresa, vehículos, plataformas de lanzamiento y lanzamientos | `Ninguna` | Sí | Sí |
+| [Sunrise and Sunset](https://sunrise-sunset.org/api) | Horarios de salida y puesta del sol para una latitud y longitud dadas | `Ninguna` | Sí | Sí |
+| [TLE](https://tle.ivanstanojevic.me/#/docs) | Información de satélites | `Ninguna` | Sí | Sí |
+| [USGS Earthquake Hazards Program](https://earthquake.usgs.gov/fdsnws/event/1/) | Datos de terremotos en tiempo real | `Ninguna` | Sí | Sí |
+| [USGS Water Services](https://waterservices.usgs.gov/) | Información de calidad y nivel del agua para ríos y lagos | `Ninguna` | Sí | Sí |
+| [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589) | Datos mundiales | `Ninguna` | Sí | No |
+
+### Redes Sociales
+
+| API | Descripción | Autenticación | HTTPS | CORS |
+| --- | --- | --- | --- | --- |
+| [Buffer](https://buffer.com/developers/api) | Acceso a actualizaciones pendientes y enviadas en Buffer | `OAuth` | Sí | Sí |
+| [Carro](https://docs.carro.co/) | Plataforma de comercio social líder en Indonesia | `apiKey` | Sí | Sí |
+| [Cisco Spark](https://developer.ciscospark.com) | Software de colaboración en equipo | `OAuth` | Sí | Sí |
+| [Discord](https://discord.com/developers/docs/intro) | Crear bots para Discord, integrar Discord en una plataforma externa | `OAuth` | Sí | Sí |
+| [Disqus](https://disqus.com/api/docs/auth/) | Comunicarse con datos de Disqus | `OAuth` | Sí | Sí |
+| [Facebook](https://developers.facebook.com/) | Inicio de sesión en Facebook, Compartir en FB, Plugins sociales, Analytics y más | `OAuth` | Sí | Sí |
+| [Foursquare](https://developer.foursquare.com/) | Interactuar con usuarios y lugares de Foursquare (registros basados en geolocalización, fotos, consejos, eventos, etc) | `OAuth` | Sí | Sí |
+| [Fuck Off as a Service](https://www.foaas.com) | Pide a alguien que se vaya a la mierda | `Ninguna` | Sí | No |
+| [Full Contact](https://docs.fullcontact.com/) | Obtener perfiles de redes sociales e información de contacto | `OAuth` | Sí | Sí |
+| [HackerNews](https://github.com/HackerNews/API) | Noticias sociales para CS y emprendimiento | `Ninguna` | Sí | Sí |
+| [Instagram](https://www.instagram.com/developer/) | Inicio de sesión en Instagram, Compartir en Instagram, Plugins sociales y más | `OAuth` | Sí | Sí |
+| [Kakao](https://developers.kakao.com/) | Inicio de sesión en Kakao, Compartir en KakaoTalk, Plugins sociales y más | `OAuth` | Sí | Sí |
+| [Line](https://developers.line.biz/) | Inicio de sesión en Line, Compartir en Line, Plugins sociales y más | `OAuth` | Sí | Sí |
+| [LinkedIn](https://docs.microsoft.com/en-us/linkedin/) | La base de todas las integraciones digitales con LinkedIn | `OAuth` | Sí | Sí |
+| [Meetup.com](https://www.meetup.com/api/) | Datos sobre Meetups de Meetup.com | `apiKey` | Sí | Sí |
+| [MySocialApp](https://mysocialapp.io) | Características de redes sociales perfectas, API, SDK para cualquier aplicación | `apiKey` | Sí | Sí |
+| [Open Collective](https://docs.opencollective.com/help/developers/api) | Obtener datos de Open Collective | `Ninguna` | Sí | Sí |
+| [Pinterest](https://developers.pinterest.com/) | El catálogo de ideas del mundo | `OAuth` | Sí | Sí |
+| [Product Hunt](https://api.producthunt.com/v2/docs) | Los mejores nuevos productos en tecnología | `OAuth` | Sí | Sí |
+| [Reddit](https://www.reddit.com/dev/api/) | Página de inicio de internet | `OAuth` | Sí | Sí |
+| [Saidit](https://www.saidit.net/dev/api/) | Clon de Reddit de código abierto | `OAuth` | Sí | Sí |
+| [Slack](https://api.slack.com/) | Colaboración en equipo | `OAuth` | Sí | Sí |
+| [Telegram Bot](https://core.telegram.org/bots/api) | Versión HTTP simplificada de la API MTProto para bots | `apiKey` | Sí | Sí |
+| [Telegram MTProto](https://core.telegram.org/api#getting-started) | Leer y escribir datos de Telegram | `OAuth` | Sí | Sí |
+| [TikTok](https://developers.tiktok.com/doc/login-kit-web/) | Obtiene información del usuario y publicaciones de video del usuario en la plataforma TikTok | `OAuth` | Sí | Sí |
+| [Trash Nothing](https://trashnothing.com/developer) | Una comunidad de freecycling con miles de artículos publicados cada día | `OAuth` | Sí | Sí |
+| [Tumblr](https://www.tumblr.com/docs/en/api/v2) | Leer y escribir datos de Tumblr | `OAuth` | Sí | Sí |
+| [Twitch](https://dev.twitch.tv/docs) | API de transmisión de juegos | `OAuth` | Sí | Sí |
+| [Twitter](https://developer.twitter.com/en/docs) | Leer y escribir datos de Twitter | `OAuth` | Sí | Sí |
+| [vk](https://vk.com/dev/sites) | Leer y escribir datos de vk | `OAuth` | Sí | Sí |
+
+### Deportes y Fitness
+
+| API | Descripción | Autenticación | HTTPS | CORS |
+| --- | --- | --- | --- | --- |
+| [ApiMedic](https://apimedic.com/) | API médica para síntomas y enfermedades | `apiKey` | Sí | No |
+| [balldontlie](https://www.balldontlie.io) | Balldontlie proporciona acceso a datos de estadísticas de la NBA | `Ninguna` | Sí | Sí |
+| [Canadian Football League (CFL)](https://api.cfl.ca/) | API JSON oficial que proporciona estadísticas en tiempo real de la liga, equipos y jugadores de la CFL | `apiKey` | Sí | No |
+| [City Bikes](https://citybik.es/#about) | Bicicletas urbanas en todo el mundo | `Ninguna` | Sí | Sí |
+| [Ergast F1](http://ergast.com/mrd/) | Datos de F1 desde el inicio de los campeonatos mundiales en 1950 | `Ninguna` | Sí | Sí |
+| [Fitbit](https://dev.fitbit.com/) | Información de Fitbit | `OAuth` | Sí | Sí |
+| [Football (Soccer) Videos](https://www.scorebat.com/video-api/) | Códigos de inserción para goles y highlights de la Premier League, Bundesliga, Serie A y muchos más | `Ninguna` | Sí | Sí |
+| [Football-Data](https://www.football-data.org) | Datos de fútbol | `apiKey` | Sí | No |
+| [Jokes](https://github.com/15Dkatz/official_joke_api) | Chistes de programación y generales | `Ninguna` | Sí | Sí |
+| [MLB Records](https://appac.github.io/mlb-data-api-docs/) | Estadísticas actuales e históricas de la MLB | `Ninguna` | Sí | No |
+| [NBA Data](https://rapidapi.com/api-sports/api/api-nba/) | Todos los datos de estadísticas de la NBA, juegos, resultados en vivo, clasificaciones, estadísticas | `apiKey` | Sí | Sí |
+| [NHL Records and Stats](https://gitlab.com/dword4/nhlapi) | Datos y estadísticas históricos de la NHL | `Ninguna` | Sí | Sí |
+| [Oddsmagnet](https://data.oddsmagnet.com) | Historial de cuotas de múltiples casas de apuestas del Reino Unido | `Ninguna` | Sí | Sí |
+| [OpenLigaDB](https://www.openligadb.de) | Resultados de ligas deportivas crowdsourced | `Ninguna` | Sí | Sí |
+| [Sport Data](https://sportdataapi.com) | Obtener datos deportivos de todo el mundo | `apiKey` | Sí | Sí |
+| [Sporth](https://sports.api-sports.io/) | Todos los datos deportivos de todo el mundo | `apiKey` | Sí | Sí |
+| [TheSportsDB](https://www.thesportsdb.com/api.php) | Datos deportivos y obras de arte crowdsourced | `apiKey` | Sí | Sí |
+| [Wger](https://wger.de/en/software/api) | Datos de gestor de entrenamientos como ejercicios, músculos o equipamiento | `apiKey` | Sí | Sí |
+
+### Pruebas
+
+| API | Descripción | Autenticación | HTTPS | CORS |
+| --- | --- | --- | --- | --- |
+| [APIs.guru](https://apis.guru/api-doc/) | Wikipedia para APIs web | `Ninguna` | Sí | Sí |
+| [HTTPbin](https://httpbin.org/) | Probar solicitudes HTTP | `Ninguna` | Sí | Sí |
+| [HTTP2](https://http2.pro/doc/api) | Prueba de HTTP/2 y protocolo | `Ninguna` | Sí | Sí |
+| [JSON Placeholder](http://jsonplaceholder.typicode.com/) | Datos falsos para pruebas y prototipos | `Ninguna` | No | Sí |
+| [Mocky](https://www.mocky.io/) | Simular JSON de prueba definido por el usuario | `Ninguna` | Sí | Sí |
+| [Mockbin](https://mockbin.org/) | Contenedor simulado para solicitudes HTTP | `Ninguna` | Sí | Sí |
+| [Postman](https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a) | Herramienta para probar APIs | `apiKey` | Sí | Sí |
+| [Public APIs](https://github.com/davemachado/public-api) | Una lista colectiva de APIs gratuitas | `Ninguna` | Sí | No |
+| [ReqRes](https://reqres.in/) | Una API REST alojada lista para responder a sus solicitudes AJAX | `Ninguna` | Sí | Sí |
+| [Testomato](https://testomato.com/app/docs) | Monitoreo y prueba de sitios web | `apiKey` | Sí | No |
+
+### Textura
+
+| API | Descripción | Autenticación | HTTPS | CORS |
+| --- | --- | --- | --- | --- |
+| [Browshot](https://browshot.com/api/documentation) | Hacer fácilmente capturas de pantalla de páginas web en cualquier tamaño de pantalla o como miniatura | `apiKey` | Sí | Sí |
+| [JSON2Video](https://json2video.com) | Crear y editar videos programáticamente | `apiKey` | Sí | No |
+| [Microlink](https://microlink.io) | Extraer datos estructurados de cualquier sitio web | `Ninguna` | Sí | Sí |
+| [Open Graph](https://www.opengraph.io) | Obtener datos de Open Graph de cualquier sitio web | `apiKey` | Sí | Sí |
+| [RSS2JSON](https://rss2json.com/docs) | Convertir RSS a JSON | `apiKey` | Sí | Sí |
+| [WebScraping.AI](https://webscraping.ai/) | Raspado web con rotación de IP | `apiKey` | Sí | Sí |
+
+### Tiempo
+
+| API | Descripción | Autenticación | HTTPS | CORS |
+| --- | --- | --- | --- | --- |
+| [7Timer!](https://www.7timer.info/doc.php?lang=en) | Clima, especialmente para clima astro | `Ninguna` | Sí | No |
+| [AccuWeather](https://developer.accuweather.com/apis) | Datos climáticos y de pronóstico | `apiKey` | Sí | No |
+| [Aemet](https://opendata.aemet.es/centrodedescargas/inicio) | Datos climáticos y de pronóstico de España | `apiKey` | Sí | Sí |
+| [apilayer weatherstack](https://weatherstack.com/) | API de datos climáticos mundiales en tiempo real e históricos | `apiKey` | Sí | Sí |
+| [AviationWeather](https://www.aviationweather.gov/dataserver) | Clima de aviación de la NOAA | `Ninguna` | Sí | No |
+| [ColorfulClouds](https://open.caiyunapp.com/ColorfulClouds_Weather_API) | Clima | `apiKey` | Sí | Sí |
+| [Euskalmet](https://opendata.euskadi.eus/api-euskalmet/-/api-de-euskalmet/) | Datos meteorológicos del País Vasco | `apiKey` | Sí | Sí |
+| [Foreca](https://developer.foreca.com) | Clima | `OAuth` | Sí | Sí |
+| [HG Brasil](https://hgbrasil.com/status/weather) | Clima | `apiKey` | Sí | Sí |
+| [Met Office](https://www.metoffice.gov.uk/datapoint) | Clima | `apiKey` | Sí | No |
+| [MeteoCloud](https://meteocloud.com/) | Clima | `apiKey` | Sí | Sí |
+| [MeteoSource](https://www.meteosource.com/) | Clima | `apiKey` | Sí | Sí |
+| [NOAA Climate Data](https://www.ncdc.noaa.gov/cdo-web/) | Clima | `apiKey` | Sí | No |
+| [ODWeather](https://api.oceandrivers.com/static/docs.html) | Clima y cámaras web climáticas | `Ninguna` | Sí | No |
+| [Open-Meteo](https://open-meteo.com/) | API de pronóstico climático global para uso no comercial | `Ninguna` | Sí | Sí |
+| [OpenWeatherMap](https://openweathermap.org/api) | Clima | `apiKey` | Sí | Sí |
+| [QWeather](https://dev.qweather.com/en/) | Clima | `apiKey` | Sí | Sí |
+| [Storm Glass](https://stormglass.io/) | Clima marino | `apiKey` | Sí | Sí |
+| [Visual Crossing](https://www.visualcrossing.com/weather-api) | Datos climáticos históricos y de pronóstico | `apiKey` | Sí | Sí |
+| [WeatherAPI](https://www.weatherapi.com/) | Clima | `apiKey` | Sí | Sí |
+| [Weatherbit](https://www.weatherbit.io/api) | Clima | `apiKey` | Sí | Sí |
+
+### Transporte no Categorizado
+
+| API | Descripción | Autenticación | HTTPS | CORS |
+| --- | --- | --- | --- | --- |
+| [ADS-B Exchange](https://www.adsbexchange.com/data/) | Acceder a datos en tiempo real e históricos de cualquier avión en vuelo | `Ninguna` | Sí | Sí |
+| [AIS Hub](http://www.aishub.net/api) | Datos en tiempo real de cualquier embarcación marina y fluvial equipada con seguimiento AIS | `apiKey` | No | No |
+| [Aircraft Boarding & Seating](https://www.board-seat.com/aircraft-boarding-seating-api.html) | Embarque y asientos de aeronaves | `apiKey` | Sí | Sí |
+| [AviationStack](https://aviationstack.com/) | Estado de vuelo en tiempo real y datos de aviación global | `apiKey` | Sí | Sí |
+| [Bay Area Rapid Transit](http://api.bart.gov) | Estaciones y llegadas previstas para BART | `apiKey` | No | No |
+| [BlaBlaCar](https://dev.blablacar.com) | Buscar viajes de coche compartido | `apiKey` | Sí | Sí |
+| [Community Transit](https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints) | API de Transitland | `Ninguna` | Sí | Sí |
+| [GraphHopper](https://graphhopper.com/api/1/docs/) | Enrutamiento de A a B con instrucciones paso a paso | `apiKey` | Sí | Sí |
+| [Icelandic APIs](https://docs.apis.is/) | APIs abiertas que brindan servicios en o sobre Islandia | `Ninguna` | Sí | Sí |
+| [Impala](https://docs.impala.travel/docs/booking-api/) | Contenido de hoteles, tarifas y reservas de habitaciones | `apiKey` | Sí | No |
+| [Izi](http://api-docs.izi.travel/) | Guía de audio para viajeros | `apiKey` | Sí | Sí |
+| [Metro Lisboa](http://app.metrolisboa.pt/status/getLinhas.php) | Retrasos en líneas de metro | `Ninguna` | No | No |
+| [Navitia](https://navitia.io/) | La API abierta para construir cosas geniales con datos de transporte | `apiKey` | Sí | Sí |
+| [Open Charge Map](https://openchargemap.org/site/develop/api) | Registro público global de ubicaciones de carga de vehículos eléctricos | `apiKey` | Sí | Sí |
+| [OpenRail](https://docs.bitner.at/openrail/1.0.0/) | Datos de tren en tiempo real para Alemania y Austria | `Ninguna` | Sí | No |
+| [OpenSky Network](https://opensky-network.org/apidoc/index.html) | Datos de aviación ADS-B en tiempo real gratuitos | `Ninguna` | Sí | Sí |
+| [The Nomad List](https://nomadlist.com/faq) | Una lista de los mejores lugares para vivir y trabajar remotamente | `Ninguna` | Sí | No |
+| [TransitLand](https://transit.land/documentation/datastore/api-endpoints.html) | Plataforma de agregación de tránsito | `Ninguna` | Sí | Sí |
+| [Transport for Atlanta, US](https://www.itsmarta.com/developers/) | Marta | `Ninguna` | No | No |
+| [Transport for Auckland, New Zealand](https://dev-portal.at.govt.nz/) | Transporte de Auckland | `apiKey` | Sí | Sí |
+| [Transport for Belgium](https://hello.irail.be/api/) | API de transporte belga | `Ninguna` | Sí | Sí |
+| [Transport for Berlin, Germany](https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md) | API de VBB de terceros | `Ninguna` | Sí | Sí |
+| [Transport for Boston, US](https://www.mbta.com/developers/v3-api) | API de MBTA | `apiKey` | Sí | No |
+| [Transport for Budapest, Hungary](https://bkkfutar.docs.apiary.io) | API de transporte público de Budapest | `Ninguna` | Sí | Sí |
+| [Transport for Chicago, US](https://www.transitchicago.com/developers/) | CTA | `Ninguna` | No | No |
+| [Transport for Czech Republic](https://www.chaps.cz/eng/products/idos-internet) | API de transporte checo | `Ninguna` | Sí | Sí |
+| [Transport for Denver, US](https://www.rtd-denver.com/business-center-developers/business-partners/rtd-api-registration) | RTD | `Ninguna` | No | No |
+| [Transport for Finland](https://digitransit.fi/en/developers/) | API de transporte finlandés | `Ninguna` | Sí | Sí |
+| [Transport for Germany](https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md) | API de VBB de terceros | `Ninguna` | Sí | Sí |
+| [Transport for India](https://data.gov.in/sector/transport) | API de transporte de India | `apiKey` | Sí | Sí |
+| [Transport for London, England](https://api.tfl.gov.uk) | API de TfL | `apiKey` | Sí | Sí |
+| [Transport for Madrid, Spain](https://emtmadrid.es/Portal/ciudadano/informacion-developers) | API de autobuses EMT Madrid | `apiKey` | Sí | No |
+| [Transport for Manchester, England](https://developer.tfgm.com/) | Datos de la red de transporte de TfGM | `apiKey` | Sí | No |
+| [Transport for Norway](https://developer.entur.org/) | APIs de transporte y conjunto de datos para Noruega | `apiKey` | Sí | Sí |
+| [Transport for Paris, France](https://opendata.stif.info/explore/) | API de datos abiertos de RATP | `apiKey` | Sí | No |
+| [Transport for Philadelphia, US](https://www3.septa.org/api/) | APIs de SEPTA | `Ninguna` | No | No |
+| [Transport for Sao Paulo, Brazil](https://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/) | SPTrans | `OAuth` | No | No |
+| [Transport for Sweden](https://www.trafiklab.se/api) | Consumidor de transporte público | `OAuth` | Sí | Sí |
+| [Transport for Switzerland](https://opentransportdata.swiss/en/) | Datos abiertos de transporte público suizo oficial | `apiKey` | Sí | Sí |
+| [Transport for The Netherlands](https://ns-api.nl/) | NS, solo trenes | `apiKey` | Sí | No |
+| [Transport for Toronto, Canada](https://myttc.ca/developers) | TTC | `Ninguna` | Sí | Sí |
+| [Transport for United States](https://www.bart.gov/schedules/developers/api) | BART | `apiKey` | No | No |
+| [Transport for Vancouver, Canada](https://developer.translink.ca/) | TransLink | `OAuth` | Sí | Sí |
+| [Uber](https://developer.uber.com/products) | Solicitudes de viaje y estimación de precios de Uber | `OAuth` | Sí | Sí |
+| [Where's My Transit?](https://whereismytransit.com/) | Datos de tránsito para aplicaciones móviles | `OAuth` | Sí | Sí |
